@@ -1,0 +1,3 @@
+aioambient
+python-dotenv
+requests
